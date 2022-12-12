@@ -1,3 +1,3 @@
 # express-07
 
-Goal : hash password
+Goal : hash password using argon2
